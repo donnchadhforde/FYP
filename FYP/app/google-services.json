@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "207709702891",
+    "firebase_url": "https://fypfgoniometer.firebaseio.com",
+    "project_id": "fypfgoniometer",
+    "storage_bucket": "fypfgoniometer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207709702891:android:23eb84a59566a6e3",
+        "android_client_info": {
+          "package_name": "com.example.donnchadhforde.fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207709702891-pqnfgjg0qe1feq3gh5voclcqm7h3fkg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.donnchadhforde.fyp",
+            "certificate_hash": "8eb0a0be1fcb944a23255bd09796d03175531d92"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI6UioJOfqs0dgw7bymyRf9eYBSJUBK3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207709702891-ht0ckt19rrtb8urc1d15jsca9av0a3d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
